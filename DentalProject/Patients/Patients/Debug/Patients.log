@@ -1,0 +1,33 @@
+﻿  main.c
+c:\dentalproject\patients\patients\main.c(37): warning C4013: 'loginUser' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(57): warning C4013: 'loadFront' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(62): warning C4013: 'loadEnd' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(74): warning C4013: 'printMenu' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(82): warning C4013: 'addFront' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(87): warning C4013: 'addEnd' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(93): warning C4013: 'printList' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(98): warning C4013: 'search' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(103): warning C4013: 'updatePatient' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(112): warning C4013: 'findPosition' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(113): warning C4013: 'Listlength' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(119): warning C4013: 'deletePatientFront' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(124): warning C4013: 'deletePatientPosition' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(131): warning C4013: 'getStatistics' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(140): warning C4013: 'printReport' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(148): warning C4013: 'sortAppointments' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(164): warning C4013: 'printFile' undefined; assuming extern returning int
+c:\dentalproject\patients\patients\main.c(10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\dentalproject\patients\patients\main.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\dentalproject\patients\patients\main.c(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\dentalproject\patients\patients\main.c(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\dentalproject\patients\patients\main.c(137): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\dentalproject\patients\patients\main.c(163): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\dentalproject\patients\patients\main.c(18): warning C4101: 'ch': unreferenced local variable
+c:\dentalproject\patients\patients\main.c(19): warning C4101: 'varRead': unreferenced local variable
+  Patients.vcxproj -> C:\DentalProject\Patients\Debug\Patients.exe
